@@ -1,0 +1,3 @@
+print("hello");
+
+int number = 43;
